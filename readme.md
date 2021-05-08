@@ -20,3 +20,9 @@
 ## Video Explainations and Demo
 1. `Code Explaination ` [Click here](https://drive.google.com/file/d/1AJVDzhMdEPTL4hvXGHwPx_DsAHN7rw_t/view?usp=sharing)
 2. `Deployement Demo using Remix IDE ` [Click here](https://drive.google.com/file/d/1chxRC41sPeElv3v2fE_cslAMQWFnU7BH/view?usp=sharing) 
+
+## Tech stack and IDEs
+- Truffle
+- Remix IDE
+- Solidity
+- Ganache
